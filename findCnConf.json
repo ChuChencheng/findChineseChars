@@ -1,0 +1,14 @@
+{
+  "directories": [
+    "./abc",
+    "./def"
+  ],
+  "basePath": "./xxx",
+  "requiredExt": ".js",
+  "alias": {
+    "base": "./src/base",
+    "lib": "./src/base/lib"
+  },
+  "output": "output.json",
+  "excludeRequire": false
+}
